@@ -5,8 +5,6 @@ Created on Wed Apr  5 14:07:05 2023
 
 """
 
-#NAME: Yahan Zhang
-#Student ID: 260908840
 import pandas as pd
 import numpy as np
 from seaborn import heatmap
