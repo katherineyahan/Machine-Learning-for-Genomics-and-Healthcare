@@ -2,7 +2,7 @@
 """
 Created on Wed Apr  5 14:07:05 2023
 
-@author: 张雅涵
+
 """
 
 #NAME: Yahan Zhang
