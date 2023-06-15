@@ -1,5 +1,4 @@
-# STUDENT NAME:Yahan Zhang
-# STUDENT ID:260908840
+
 import pickle
 import numpy as np
 import pandas as pd
